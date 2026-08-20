@@ -1,0 +1,1 @@
+![[Pasted image 20251118110438.png]]2. 如果不知道依赖的坐标信息，可以到mvn的中央仓库（https://mvnrepository.com/）中搜索
