@@ -1,3 +1,7 @@
+> [!info] 当前面试主入口
+> [[redis/Redis面试精炼笔记/00-Redis面试知识地图]]
+> 本文为完整 Reference，需要补细节时再查。
+
 **HyperLogLog** 是 Redis 里一个非常“黑科技”的功能。它的主要作用是：**用极小的空间，统计海量数据的“去重个数”（不重复计数）**。
 
 在 IT 行业，这个需求叫 **基数统计 (Cardinality Counting)**。
