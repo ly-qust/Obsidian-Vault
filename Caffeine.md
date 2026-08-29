@@ -1,3 +1,7 @@
+> [!info] 当前面试主入口
+> [[redis/Redis面试精炼笔记/00-Redis面试知识地图]]
+> 本文为完整 Reference，需要补细节时再查。
+
 在秒杀系统中，如果说 Redis 是“全公司的共享书库”，那么 **Caffeine** 就是你“桌子上的笔记本”。
 
 Caffeine 是目前 **Java 领域性能最强、最快** 的本地缓存库，被称为“**缓存之王**”。在 Spring Boot 2.x 之后，它取代了 Guava Cache 成为默认的缓存实现。
